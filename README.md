@@ -56,3 +56,20 @@ Example 2 - 10 render distance, 150 camera size
 Example 3- 1 render distance, 10 camera size (INTENDED USE)
 
 ![image](https://user-images.githubusercontent.com/79357222/187061938-fae57e02-81fc-4742-ba92-77c42c836a89.png)
+
+World gen object 
+
+![image](https://user-images.githubusercontent.com/79357222/187062075-a3ce0b09-bda9-4d53-9b67-7aa99e907a5d.png)
+
+World gen fields
+
+![image](https://user-images.githubusercontent.com/79357222/187062106-26ccdc8a-285b-4925-83f9-2e1e326ab771.png)
+
+My world gen 1
+
+![image](https://user-images.githubusercontent.com/79357222/187062202-59c96b41-8dea-4c54-9249-c3a14736e3b5.png)
+
+My world gen 2
+
+![image](https://user-images.githubusercontent.com/79357222/187062208-dfc11ef8-5aa6-4059-a2a3-d1b5c26d8c4b.png)
+
