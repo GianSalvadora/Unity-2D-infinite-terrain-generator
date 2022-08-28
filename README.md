@@ -44,3 +44,14 @@ MyChunkGen.cs - OnMainChunkChange()
 2 unloads the chunks outside of the render distance, chunks inside the render distance remains
 3 unloaded chunks gets their values changed then used again to load the new chunks
 
+Example 1 - 10 render distance, 150 camera size
+
+![image](https://user-images.githubusercontent.com/79357222/187061851-18cc6022-6086-45dd-a613-f858b3740ea9.png)
+
+Example 2 - 10 render distance, 150 camera size
+
+![image](https://user-images.githubusercontent.com/79357222/187061877-4f57f3d5-eb99-48b9-985d-411f4da376f1.png)
+
+Example 3- 1 render distance, 10 camera size (INTENDED USE)
+
+![image](https://user-images.githubusercontent.com/79357222/187061938-fae57e02-81fc-4742-ba92-77c42c836a89.png)
