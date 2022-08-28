@@ -2,6 +2,7 @@
 Unity infinite terrain generator
 
 Features
+
 *Object pooling - faster generation
 *Different noise included - using Fast noise lite
 *Some sprites included - using Mini world sprites
