@@ -47,7 +47,7 @@ MyChunkGen.cs - OnMainChunkChange()
 
 Example 1 - 10 render distance, 150 camera size
 
-![image](https://user-images.githubusercontent.com/79357222/187061851-18cc6022-6086-45dd-a613-f858b3740ea9.png)
+![image](https://user-images.githubusercontent.com/79357222/187073242-fab76de4-c12f-4fa1-9fe4-da092d595877.png)
 
 Example 2 - 10 render distance, 150 camera size
 
